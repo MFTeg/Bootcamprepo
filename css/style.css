@@ -1,0 +1,22 @@
+body {
+    background-color: wheat;
+    font: helvetica;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: red;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    font: times;
+    float: center;
+    background-color: black;
+    text-align: center;
+}
+
+li {
+    color: black;
+    text-align: center;
+}
+
